@@ -1,0 +1,15 @@
+/*
+Theme Name: Pilates
+Theme URI: 
+Author: rodrigosantosdev
+Author URI: rodrigosantos.dev
+Description: Uma landing page, para uma empresa de pilates ou academia.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+html,
+body {
+  scroll-behavior: smooth;
+}

@@ -1,0 +1,18 @@
+{
+  "name": "hometheme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "w": "tailwindcss -i tailwind.css -o app.css --watch",
+    "bs": "browser-sync start --proxy hometheme.local --files '**/*' --no-inject-changes"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5"
+  }
+}
