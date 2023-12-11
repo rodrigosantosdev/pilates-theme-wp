@@ -1,4 +1,4 @@
-<section class="min-h-screen bg-center bg-cover bg-hero" id="#">
+<section class="w-full min-h-screen bg-center bg-cover bg-hero" id="#">
   <div class="flex items-center justify-between h-screen px-8 md:px-20">
     <div class="flex flex-col">
       <?php

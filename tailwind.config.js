@@ -3,8 +3,8 @@ export default {
   content: ["./**/*.php", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     backgroundImage: {
-      hero: "url('assets/images/background-hero.jpg')",
-      agendar: "url('assets/images/agendar.jpg')",
+      hero: "url('assets/images/background-hero.webp')",
+      agendar: "url('assets/images/agendar.webp')",
     },
     container: {
       center: true,
